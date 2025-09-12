@@ -20,7 +20,7 @@ Core Competencies
 
 I am passionate about combining data-driven strategy with creativity to achieve growth. Always open to connecting with forward-thinking teams and organizations looking to elevate their digital presence.
 
-Skills: HTML / CSS/JS/WordPress
+Skills: HTML / CSS/ JS
 
 - 🔭 I’m currently working on Web development 
 - 🌱 I’m currently learning Python 
