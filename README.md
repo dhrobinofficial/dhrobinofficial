@@ -20,10 +20,10 @@ Core Competencies
 
 I am passionate about combining data-driven strategy with creativity to achieve growth. Always open to connecting with forward-thinking teams and organizations looking to elevate their digital presence.
 
-Skills: HTML/CSS/JS/PHP/Python
+Skills: HTML/CSS/JS/PHP/Python/Flutter
 
 - 🔭 I’m currently working on Web development 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on Website development project 
 - 🤔 I’m looking for help with Web Application 
 - 💬 Ask me about Web Development, Digital Marketing 
