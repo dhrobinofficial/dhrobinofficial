@@ -20,7 +20,7 @@ Core Competencies
 
 I am passionate about combining data-driven strategy with creativity to achieve growth. Always open to connecting with forward-thinking teams and organizations looking to elevate their digital presence.
 
-Skills: HTML/CSS/JS/PHP/Python/Flutter/Firebase/Java
+Skills: HTML/CSS/JS/PHP/PhpMyAdmin/Python/Flutter/Firebase/Figma/Java
 
 - 🔭 I’m currently working on Web development 
 - 🌱 I’m currently learning Java 
