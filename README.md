@@ -1,4 +1,4 @@
-![Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online](https://pbs.twimg.com/profile_banners/1317241171/1755335699/1080x3600)
+![Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online](https://github.com/dhrobinofficial/dhrobinofficial/blob/main/Header.png)
 
 ### Hi there 👋, This is DH Robin
 #### Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online
