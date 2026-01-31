@@ -15,7 +15,7 @@ Core Competencies:
 • Social Media Marketing & Content Creation
 • YouTube Video Editing & Channel Growth
 • Branding, Visual Design & Strategic Planning
-• Marketing Systems & Technical Troubleshooting
+• Marketing Systems & Technical Troubleshooting 
 
 I combine technical precision with creative strategy to deliver faster execution and scalable results. Open to collaboration with forward-thinking teams seeking to strengthen digital presence.
 
