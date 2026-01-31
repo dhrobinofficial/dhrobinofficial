@@ -9,7 +9,7 @@ I’m a results-driven professional with extensive experience in digital marketi
 At DH Robin Digital and freelance projects like PeakWaves Studio, I’ve maintained and optimized web infrastructure, built marketing systems, and executed campaigns that increased engagement, improved site performance, and ensured uninterrupted digital operations.
 
 
-Core Competencies:
+**Core Competencies:**
 - Web & Marketing Infrastructure Support (Domains, Hosting, Integrations)
 - Digital Marketing Strategy & Campaigns
 - SEO: On-page, Off-page & Technical
@@ -23,7 +23,7 @@ Core Competencies:
 I combine technical precision with creative strategy to deliver faster execution and scalable results. Open to collaboration with forward-thinking teams seeking to strengthen digital presence.
 
 
-Skills: HTML · CSS · JS · PHP · PhpMyAdmin · Python · Flutter · Firebase · Figma · WordPress
+**Technical Skills:** HTML · CSS · JS · PHP · PhpMyAdmin · Python · Flutter · Firebase · Figma · WordPress
 
 
 - 🔭 I’m currently working on Web Development 
