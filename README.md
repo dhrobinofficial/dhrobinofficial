@@ -1,35 +1,33 @@
 ![Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online](https://github.com/dhrobinofficial/dhrobinofficial/blob/main/Profile%20Banner.png)
 
-### Hi there 👋, This is DH Robin
-#### Digital Marketing Expert | Marketing Systems Operator | WordPress & SEO Specialist
+### Hi there 👋, I’m DH Robin
+#### Digital Marketing Expert | Marketing Systems & Web Infrastructure Specialist | WordPress & SEO Professional
 
-I am a results-driven Digital Marketing and Content Strategy professional with over a decade of experience helping brands expand their online presence. My expertise spans SEO, social media marketing, creative strategy, and content innovation, where I consistently deliver measurable impact.
+I’m a results-driven professional with extensive experience in digital marketing, web infrastructure, and content strategy. I help brands optimize their online presence through seamless web systems, SEO, marketing integrations, and creative campaigns that drive measurable growth.
 
-At DH Robin Digital, I’ve led projects that increased client engagement by up to 300%, built campaigns that generated consistent leads, and collaborated with businesses to strengthen their brand visibility.
+At DH Robin Digital and freelance projects like PeakWaves Studio, I’ve maintained and optimized web infrastructure, built marketing systems, and executed campaigns that increased engagement, improved site performance, and ensured uninterrupted digital operations.
 
-Core Competencies
-
+Core Competencies:
+• Web & Marketing Infrastructure Support (Domains, Hosting, Integrations)
 • Digital Marketing Strategy & Campaigns
-• Website Development (WordPress, WooCommerce)
-• SEO (On-page, Off-page, Technical)
-• YouTube Video Editing & Channel Growth
+• SEO: On-page, Off-page & Technical
+• WordPress & WooCommerce Development
 • Social Media Marketing & Content Creation
-• Strategic Planning & Business Development
-• Branding & Visual Design
-• Client Relations & Virtual Assistance
+• YouTube Video Editing & Channel Growth
+• Branding, Visual Design & Strategic Planning
+• Marketing Systems & Technical Troubleshooting
 
-I am passionate about combining data-driven strategy with creativity to achieve growth. Always open to connecting with forward-thinking teams and organizations looking to elevate their digital presence.
+I combine technical precision with creative strategy to deliver faster execution and scalable results. Open to collaboration with forward-thinking teams seeking to strengthen digital presence.
 
-Skills: HTML/CSS/JS/PHP/PhpMyAdmin/Python/Flutter/Firebase/Figma/Java
+Technical Skills: HTML · CSS · JS · PHP · PhpMyAdmin · Python · Flutter · Firebase · Figma · WordPress
 
-- 🔭 I’m currently working on Web development 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Website development project 
-- 🤔 I’m looking for help with Web Application 
-- 💬 Ask me about Web Development, Digital Marketing 
-- 📫 How to reach me: Linkedin, GitHub 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Traveller and Nature Lover 
+🔭 Currently working on Web Development
+🌱 Currently learning Java
+👯 Looking to collaborate on Website & Web App projects
+💬 Ask me about Web Development, Digital Marketing & Marketing Systems
+📫 Reach me via LinkedIn or GitHub
+😄 Pronouns: He/Him
+⚡ Fun fact: Traveller and Nature Lover
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhrobinofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhrobinofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dhrobindigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dhrobindigitall/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dhrobindigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/dhrobindigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.dhrobindigital.com/)  
