@@ -1,7 +1,7 @@
 ![Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online](https://github.com/dhrobinofficial/dhrobinofficial/blob/main/Profile%20Banner.png)
 
 ### Hi there 👋, This is DH Robin
-#### Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online
+#### Digital Marketing Expert | Marketing Systems Operator | WordPress & SEO Specialist
 
 I am a results-driven Digital Marketing and Content Strategy professional with over a decade of experience helping brands expand their online presence. My expertise spans SEO, social media marketing, creative strategy, and content innovation, where I consistently deliver measurable impact.
 
