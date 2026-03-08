@@ -37,7 +37,7 @@ Currently I support multi-client marketing systems where I help execute and main
 ### Technical Skills
 
 HTML • CSS • JavaScript • PHP  
-WordPress • WooCommerce • PhpMyAdmin
+WordPress • WooCommerce • PhpMyAdmin  
 Figma • Web Hosting & DNS Tools
 
 ---
