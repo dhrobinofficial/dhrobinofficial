@@ -1,38 +1,55 @@
 ![Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online](https://github.com/dhrobinofficial/dhrobinofficial/blob/main/Cover%20Image.png)
 
 
-### Hi there 👋, Hi there 👋, I’m DH Robin
-#### Digital Marketing Expert | Marketing Systems & Web Infrastructure Specialist | WordPress & SEO Professional
-I’m a results-driven professional with extensive experience in digital marketing, web infrastructure, and content strategy. I help brands optimize their online presence through seamless web systems, SEO, marketing integrations, and creative campaigns that drive measurable growth.
+### Hi there 👋 I'm DH Robin
 
+**Marketing Operations Specialist | Marketing Automation | CRM Systems | Funnel Systems | Marketing Infrastructure**
 
-At DH Robin Digital and freelance projects like PeakWaves Studio, I’ve maintained and optimized web infrastructure, built marketing systems, and executed campaigns that increased engagement, improved site performance, and ensured uninterrupted digital operations.
+I build marketing operations systems that connect acquisition channels, automation workflows, CRM pipelines, and web infrastructure into a unified growth engine.
 
+My work focuses on **marketing automation, CRM integrations, funnel architecture, and marketing infrastructure**, helping companies move from disconnected marketing activities to scalable and data-driven operations.
 
-**Core Competencies:**
-- Web & Marketing Infrastructure Support (Domains, Hosting, Integrations)
-- Digital Marketing Strategy & Campaigns
-- SEO: On-page, Off-page & Technical
-- WordPress & WooCommerce Development
-- Social Media Marketing & Content Creation
-- YouTube Video Editing & Channel Growth
-- Branding, Visual Design & Strategic Planning
-- Marketing Systems & Technical Troubleshooting
+Currently I support multi-client marketing systems at **The CWT Studio**, where I help execute and maintain the operational layer behind marketing campaigns. My responsibilities include **paid media execution, CRM integrations, landing page systems, and domain and hosting environments.**
 
+---
 
-I combine technical precision with creative strategy to deliver faster execution and scalable results. Open to collaboration with forward-thinking teams seeking to strengthen digital presence.
+### Experience Includes
 
+- Executing and optimizing **Meta Ads campaigns** for healthcare, legal, and service businesses  
+- Building **conversion-focused landing pages** using WordPress and HubSpot  
+- Connecting **acquisition funnels with CRM platforms** such as HubSpot and GoHighLevel  
+- Supporting **outbound automation systems** using Apollo and Smartlead  
+- Managing **WordPress migrations, DNS configuration, domains, and hosting infrastructure**
 
-**Technical Skills:** HTML · CSS · JS · PHP · PhpMyAdmin · Python · Flutter · Firebase · Figma · WordPress
+---
 
+### Core Focus
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Website & Web App projects 
-- 💬 Ask me about Web Development, Digital Marketing & Marketing Systems 
-- 📫 How to reach me: LinkedIn or GitHub 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Traveller and Nature Lover
+- Marketing Operations & Marketing Systems  
+- Marketing Automation & CRM Infrastructure  
+- Funnel Systems & Lead Capture Architecture  
+- Web Infrastructure (Domains, DNS, Hosting, Integrations)  
+- WordPress & Landing Page Systems  
+- Campaign Execution & Acquisition Operations  
+
+---
+
+### Technical Skills
+
+HTML • CSS • JavaScript • PHP  
+WordPress • WooCommerce • PhpMyAdmin
+Figma • Web Hosting & DNS Tools
+
+---
+
+### Current Focus
+
+- 🔭 Building **marketing systems and web infrastructure**
+- 🌱 Currently learning **Java**
+- 👯 Open to collaboration on **web platforms, marketing systems, and automation workflows**
+- 💬 Ask me about **Marketing Operations, CRM systems, funnels, WordPress, and SEO**
+- 📫 Reach me via **LinkedIn or GitHub**
+- ⚡ Fun fact: Traveller and nature enthusiast
   
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhrobinofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhrobinofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dhrobindigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dhrobindigitall/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dhrobindigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/dhrobindigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.dhrobindigital.com/)  
