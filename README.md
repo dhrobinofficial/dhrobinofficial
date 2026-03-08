@@ -9,7 +9,7 @@ I build marketing operations systems that connect acquisition channels, automati
 
 My work focuses on **marketing automation, CRM integrations, funnel architecture, and marketing infrastructure**, helping companies move from disconnected marketing activities to scalable and data-driven operations.
 
-Currently I support multi-client marketing systems at **The CWT Studio**, where I help execute and maintain the operational layer behind marketing campaigns. My responsibilities include **paid media execution, CRM integrations, landing page systems, and domain and hosting environments.**
+Currently I support multi-client marketing systems where I help execute and maintain the operational layer behind marketing campaigns. My responsibilities include **paid media execution, CRM integrations, landing page systems, and domain and hosting environments.**
 
 ---
 
